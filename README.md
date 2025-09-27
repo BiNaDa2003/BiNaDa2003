@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dewndara2003@gmail.com**
   
-- ⚡ Fun fact **Call me as BINO**
+
 
 </td>
 <td width="50%" align="center">
@@ -48,8 +48,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BiNaDa2003&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
+  <img src="https://camo.githubusercontent.com/0d6c6140f14246135dcb79509fad46805fdbfb407e0a193b9c6bf21b136dbf19/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5363617231313039267468656d653d6461726b26686964655f626f726465723d66616c7365266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"/>
   </td>
 </tr>
 </table>
