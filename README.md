@@ -48,7 +48,7 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BiNaDa2003&theme=dark&show_icons=true&count_private=true" />
+  
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BiNaDa2003&theme=dark" />
 </p>
 
@@ -60,7 +60,7 @@
   &nbsp;
   <a href="https://instagram.com/_.binada._" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
   &nbsp;
-  <a href="https://fb.com/binada basilu" target="blank"><img src="https://skillicons.dev/icon?i=facebook" height="45" /></a>
+  <a href="https://fb.com/binada.basilu" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="45" /></a>
 </p>
 
 ---
