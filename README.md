@@ -67,7 +67,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/scar2001">
+  <a href="buymeacoffee.com/BinadaBasilu">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Support" />
   </a>
 </p>
